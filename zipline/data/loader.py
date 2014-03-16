@@ -38,8 +38,6 @@ from zipline.utils.tradingcalendar import (
     trading_days
 )
 
-import pdb
-
 logger = logbook.Logger('Loader')
 
 # TODO: Make this path customizable.
